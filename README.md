@@ -1,4 +1,0 @@
-medevolve
-=========
-
-Cordova Mobile App
